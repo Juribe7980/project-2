@@ -34,3 +34,8 @@ body: Body score, defined as the richness and weight of the wine in your mouth [
 acidity: Acidity score, defined as wine's “pucker” or tartness; it's what makes a wine refreshing and your tongue salivate and want another sip [from 1-5]
 
 Source: https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset****
+
+![image](https://user-images.githubusercontent.com/120814725/231634795-29a95724-479e-4b95-b343-44c1fe954026.png)
+
+Contina has the highest bar of more than 400 entries, Arcadi comes 2nd with approximately 300 entries.The rest have bars that are almost the same. conclusions: Contino is the most dominant winery, arcadi is the 2nd most dominant while the rest have almost the same distibution.
+
