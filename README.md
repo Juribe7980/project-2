@@ -39,7 +39,7 @@ acidity: Acidity score, defined as wine's “pucker” or tartness; it's what ma
 
 ![image](https://user-images.githubusercontent.com/120814725/231634795-29a95724-479e-4b95-b343-44c1fe954026.png)
 
-Contino has the highest bar of more than 400 entries, Arcadi comes 2nd with approximately 300 entries.The rest have bars that are almost the same. conclusions: Contino is the most dominant winery, arcadi is the 2nd most dominant while the rest have almost the same distibution.
+The graph shows the wineries by name where Contino leads, Artadi comes 2nd with approximately 250 entries.The other wineries avera over 200-250. 
 
 
 ![image](https://user-images.githubusercontent.com/120814725/231634956-af4a2267-f396-4165-997f-afd138e5332e.png)
