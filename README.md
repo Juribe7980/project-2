@@ -53,6 +53,44 @@ Barbadillo has the highest bar of 4.7 entries while the rest of the ariables hae
 
 
 ![image](https://user-images.githubusercontent.com/120814725/231635172-7d322c60-90f5-45d8-8b25-790da64db9ff.png)
-Correlation shows degree of linear relationship between variables.It varies from -1 to 1.price and ratings have the highest ratings of 48% mening that they are fairly positive correlated thus when ratings increase, price increase with approximately 50% of the initial increase in ratings. num-reviews and acidity have the lowest positive correlation of 5.2% meaning that number of rviews are lowly affected by the acidity of the wine thus low correlation.
 
 
+The variables in general have a very low correlation with each other and with the target variable.
+
+MODEL PERFORMANCE
+
+
+I executed 2 models:
+Decision Regressor
+Random Forest Regressor
+
+
+
+and I had these results:
+
+#DECISION TREE REGRESSOR
+Accurary: .72
+Precision:
+Recall: 
+
+#RANDOM FOREST REGRESSOR
+Accuracy:.82
+Precision:
+Recall:
+
+The two models did it bad in precision, very low precision, but if we see at accuracy and recall, Random Forest performed better.
+
+I am giving importance to recall because is telling me how many of the of the positive cases were predicted correctly over all the positive. This is very important if I am trying to predict who is waging more than 50K a year, I want to predict this value correctly.
+
+After PCA, I got these results:
+
+DECISION TREE RERESSOR With PCA
+
+Accuracy : .69
+Precision : 
+Recall : 
+
+The model performed better without PCA.
+
+RECOMMENDATION
+Despite PCA is a powerful tool for avoiding overfiting, in this case, it didn't add performance to the model. I recomend the Decision tree regressor without the PCA.
