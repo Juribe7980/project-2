@@ -4,7 +4,7 @@ by Jessica Uribe
 
 Source: https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset****
 
-![image](https://user-images.githubusercontent.com/120814725/231634795-29a95724-479e-4b95-b343-44c1fe954026.png)
+
 
 Context 
 This dataset is related to red variants of spanish wines. The dataset describes several popularity and description metrics their effect on it's quality. The datasets can be used for classification or regression tasks. The classes are ordered and not balanced (i.e. the quality goes from almost 5 to 4 points). The task is to predict either the quality of wine or the prices using the given data.
@@ -37,7 +37,7 @@ body: Body score, defined as the richness and weight of the wine in your mouth [
 
 acidity: Acidity score, defined as wine's “pucker” or tartness; it's what makes a wine refreshing and your tongue salivate and want another sip [from 1-5]
 
-
+![image](https://user-images.githubusercontent.com/120814725/231634795-29a95724-479e-4b95-b343-44c1fe954026.png)
 
 Contino has the highest bar of more than 400 entries, Arcadi comes 2nd with approximately 300 entries.The rest have bars that are almost the same. conclusions: Contino is the most dominant winery, arcadi is the 2nd most dominant while the rest have almost the same distibution.
 
@@ -50,4 +50,9 @@ Pedro ximenez has the highest bar of 148.47 entries while Grenache has the lowes
 
 
 Barbadillo has the highest bar of 4.7 entries while the rest of the ariables hae the same size of bar. Conclusion: Barbadillo winery has the ratings of 4.7 while the rest has the same ratings of 4.6 in the top 10 wineries.
+
+
+![image](https://user-images.githubusercontent.com/120814725/231635172-7d322c60-90f5-45d8-8b25-790da64db9ff.png)
+Correlation shows degree of linear relationship between variables.It varies from -1 to 1.price and ratings have the highest ratings of 48% mening that they are fairly positive correlated thus when ratings increase, price increase with approximately 50% of the initial increase in ratings. num-reviews and acidity have the lowest positive correlation of 5.2% meaning that number of rviews are lowly affected by the acidity of the wine thus low correlation.
+
 
