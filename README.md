@@ -68,15 +68,13 @@ Random Forest Regressor
 
 and I had these results:
 
-#DECISION TREE REGRESSOR
+DECISION TREE REGRESSOR
 Accurary: .72
-Precision:
-Recall: 
 
-#RANDOM FOREST REGRESSOR
+
+RANDOM FOREST REGRESSOR
 Accuracy:.82
-Precision:
-Recall:
+
 
 The two models did it bad in precision, very low precision, but if we see at accuracy and recall, Random Forest performed better.
 
@@ -87,8 +85,7 @@ After PCA, I got these results:
 DECISION TREE RERESSOR With PCA
 
 Accuracy : .69
-Precision : 
-Recall : 
+
 
 The model performed better without PCA.
 
