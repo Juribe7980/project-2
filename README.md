@@ -38,14 +38,18 @@ body: Body score, defined as the richness and weight of the wine in your mouth [
 acidity: Acidity score, defined as wine's “pucker” or tartness; it's what makes a wine refreshing and your tongue salivate and want another sip [from 1-5]
 
 ![image](https://github.com/Juribe7980/project-2/assets/120814725/623265d6-93cf-481e-a525-9dc7912cb11b)
+
+
 Correlation shows degree of linear relationship between variables.It varies 1 from price and ratings have the highest ratings of 42% meaning that they are fairly positive correlated thus when ratings increase, price increase with approximately 50% of the initial increase in ratings. num-reviews and acidity have the lowest positive correlation of 4.4% meaning that number of reviews are lowly affected by the acidity of the wine thus low correlation.
 
 ![image](https://github.com/Juribe7980/project-2/assets/120814725/214463b3-e772-4451-aa2e-78b9b62a16e6)
+
 This visualization shows the wine production per year and the acidity and body.
 Showing 2017 and 2018 the highest years where the wine's body was considerably higher than the rest of the years.
 
 
 ![image](https://github.com/Juribe7980/project-2/assets/120814725/40cfc6fc-6fdb-4af8-a344-12312aa14815)
+
 This visualization shows the rating of the wines through the years of 2011 to 2018 in relation to their price.
 The wine produce in 2011 is the most costly, over 2500 euros, the next was 2014 where a wine was over 1500 euros.
 
