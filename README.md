@@ -39,20 +39,12 @@ acidity: Acidity score, defined as wine's “pucker” or tartness; it's what ma
 
 ![image](https://user-images.githubusercontent.com/120814725/231634795-29a95724-479e-4b95-b343-44c1fe954026.png)
 
-The graph shows the wineries by name where Contino leads, Artadi comes 2nd with approximately 250 entries.The other wineries avera over 200-250. 
+![image](https://github.com/Juribe7980/project-2/assets/120814725/214463b3-e772-4451-aa2e-78b9b62a16e6)
 
 
-![image](https://user-images.githubusercontent.com/120814725/231634956-af4a2267-f396-4165-997f-afd138e5332e.png)
 
-Pedro ximenez has the highest bar of 148.47 entries while Grenache has the lowest bar of 57.5 entries.This shows that Petro ximenez is the most expensive type while Grenache is the least expensive type in the top 10 wine types.
+![image](https://github.com/Juribe7980/project-2/assets/120814725/40cfc6fc-6fdb-4af8-a344-12312aa14815)
 
-![image](https://user-images.githubusercontent.com/120814725/231635032-5c7476ae-ec84-4c2f-852c-3cd7d33eeb52.png)
-
-
-Barbadillo has the highest bar of 4.7 entries while the rest of the ariables hae the same size of bar. Conclusion: Barbadillo winery has the ratings of 4.7 while the rest has the same ratings of 4.6 in the top 10 wineries.
-
-
-![image](https://user-images.githubusercontent.com/120814725/231635172-7d322c60-90f5-45d8-8b25-790da64db9ff.png)
 
 
 The variables in general have a very low correlation with each other and with the target variable.
