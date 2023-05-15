@@ -62,7 +62,7 @@ Showing 2017 and 2018 the highest years where the wine's body was considerably h
 
 This visualization shows the rating of the wines through the years of 2011 to 2018 in relation to their price.
 
-The wine produce in 2011 is the most costly, over 2500 euros, the next was 2014 where a wine was over 1500 euros.
+The wine production in 2011 is the most costly, over 2500 euros, the next was 2014 where a wine was over 1500 euros.
 
 
 
@@ -94,3 +94,11 @@ Test
 weighted avg       0.94      0.94      0.94      1477
 
 
+
+The best model, according to the test accuracy, is DecisionTreeClassifier:
+Training accuracy: 0.94 Test accuracy is 0.95. 
+
+The wine was set in three categories Five stars four Stars and three stars been the five starts the best wine in the market.
+I feel that the results of the models used to rate the product will serve well as we go forward. 
+
+##Contact information: Jessica Uribe  jessicam.uribe@gmail.com
