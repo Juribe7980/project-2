@@ -48,7 +48,7 @@ Correlation shows degree of linear relationship between variables.It varies 1 fr
 
 
 
-This visualization shows the wine production per year and the acidity and body.
+This visualization shows the wine production per year and the price.
 
 
 Showing 2017 and 2018 the highest years where the wine's body was considerably higher than the rest of the years.
@@ -60,10 +60,11 @@ Showing 2017 and 2018 the highest years where the wine's body was considerably h
 
 
 
-This visualization shows the rating of the wines through the years of 2011 to 2018 in relation to their price.
 
-The wine production in 2011 is the most costly, over 2500 euros, the next was 2014 where a wine was over 1500 euros.
+This visualization shows the wine production per year and the acidity and body.
 
+
+Showing 2011 and 2016 the highest years where the wine's body was considerably higher than the rest of the years.
 
 
 
