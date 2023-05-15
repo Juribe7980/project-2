@@ -61,3 +61,31 @@ This visualization shows the rating of the wines through the years of 2011 to 20
 The wine produce in 2011 is the most costly, over 2500 euros, the next was 2014 where a wine was over 1500 euros.
 
 
+
+KNN Model shows the following accuracy is .92
+Test
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96      1296
+           1       0.63      0.61      0.62       167
+           2       0.44      0.57      0.50        14
+
+    accuracy                           0.92      1477
+   macro avg       0.68      0.71      0.69      1477
+weighted avg       0.92      0.92      0.92      1477
+
+
+Decision Tree shows the following accuracy is .94
+
+Test
+              precision    recall  f1-score   support
+
+           0       0.98      0.95      0.97      1296
+           1       0.68      0.83      0.75       167
+           2       0.55      0.43      0.48        14
+
+    accuracy                           0.94      1477
+   macro avg       0.74      0.74      0.73      1477
+weighted avg       0.94      0.94      0.94      1477
+
+
